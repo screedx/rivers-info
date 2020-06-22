@@ -1,0 +1,15 @@
+Dnipro   2201 15
+Dniester 1362 18
+Danube   2850 25
+Don      1870 10
+Desna    1130  4
+Psel     717   4
+Pripyat  775   3
+Bug      774   3
+Tisza    966   2
+Teteriv  385  15
+Vorskla  464   5
+Seym     748   3
+
+
+
